@@ -1,2 +1,1 @@
-# Numerical-Methods-Algorithms
-# Numerical-Methods-Algorithms
+This folder contains the algorithms created during Mechanical Engineering 105.
